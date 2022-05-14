@@ -21,3 +21,7 @@ As the User navigates the app , click/view based events tell us:
 - What action they complete
 - When they take the action
 - How the action was completed
+
+I have used this data to answer important questions that help the business better it's product. My data-driven insights should directly impact the growth of this start up. 
+
+These queries can be found in the main .sql file 
