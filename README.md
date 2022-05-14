@@ -1,5 +1,5 @@
 # SQL_Case_Study
-SQL Data Exploration on a real life start up in Silicon Valley. 
+SQL Data Exploration on a real life SAAS start up in Silicon Valley. 
 
 Objective 
 
@@ -13,7 +13,7 @@ The Case Study:
 
 The Software product is a non-profit platform that helps non-profit organizations to search for funders for grant awards, track outcome based impact, tell and share stories of impact, and access resources and training courses. 
 
-The SSAS startup wants to track usage across their app to use data-driven insights to improve their app, hence grow their business.
+The SAAS startup wants to track usage across their app to use data-driven insights to improve their app, hence grow their business.
 They do this by using front-end tracking of their app. The data tracked makes its way to the data warehousing platform - snowflake
 
 As the User navigates the app , click/view based events tell us:
